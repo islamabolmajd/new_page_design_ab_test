@@ -3,6 +3,7 @@ A/B tests are very commonly performed by data analysts and data scientists.   Fo
 
 
 we approached a/b testing using 3 methods :
-            Hypothesis test 
-            Z-test
-            Regression Approach
+           - Hypothesis test 
+           - Z-test
+           - Regression Approach
+p-value
